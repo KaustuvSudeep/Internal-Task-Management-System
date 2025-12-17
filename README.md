@@ -1,2 +1,5 @@
 # Internal-Task-Management-System
 An Internal Task Management System (ITMS) is a centralized software application designed to plan, assign, track, and manage tasks within an organization. It enables teams and management to organize work efficiently, monitor progress in real time, and ensure accountability across departments.
+The system typically allows administrators or managers to create tasks, define priorities, set deadlines, and assign responsibilities to individuals or teams. Users can update task status, add comments, attach relevant documents, and log progress, ensuring transparent communication and collaboration. Role-based access control ensures that sensitive information is visible only to authorized users.
+
+Additionally, the system provides dashboards and reports that offer insights into task completion rates, workload distribution, and performance metrics. By streamlining workflows, reducing manual coordination, and improving visibility into ongoing activities, an Internal Task Management System enhances productivity, improves operational efficiency, and supports informed decision-making within the organization.
